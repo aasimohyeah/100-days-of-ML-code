@@ -5,4 +5,5 @@
 
 # Day 2
 ## 31 July 2018
-**Task done: **
+
+**Task done: Eating.**
