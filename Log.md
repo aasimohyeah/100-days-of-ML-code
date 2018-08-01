@@ -14,4 +14,4 @@
 ## 1 August 2018
 
 **Task done: Started 'Learn Pandas' course from codecademy.**
-**Remarks: **
+**Remarks: .**
