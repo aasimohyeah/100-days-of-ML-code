@@ -19,4 +19,4 @@
 # Day 4
 ## 2 August 2018
 
-**Task done: Started 'Learn Pandas: Creation and Manipulation' **
+**Task done: Started 'Learn Pandas: Creation and Manipulation'.**
