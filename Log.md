@@ -14,9 +14,10 @@
 ## 1 August 2018
 
 **Task done: Started 'Learn Pandas' course from codecademy.**  
-**Remarks: Topics learnt- Introduction of pandas, learnt about DataFrame, creating a DataFrame, operations on row and column in DataFrame, inspecting a dataframe, isin command, commands for operating on csv files in pandas .**
+**Remarks: Topics learnt- Introduction of pandas, learnt about DataFrame, creating a DataFrame, operations on row and column in DataFrame, inspecting a dataframe, isin command, commands for operating on csv files in pandas.**
 
 # Day 4
 ## 2 August 2018
 
-**Task done: Started 'Learn Pandas: Creation and Manipulation'.**
+**Task done: Started and completed 'Learn Pandas: Creation and Manipulation' which marks the completion of 'Learn Pandas' course**  
+**Remarks: Finally done with learning Pandas.**
