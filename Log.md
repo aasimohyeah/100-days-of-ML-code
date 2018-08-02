@@ -14,4 +14,4 @@
 ## 1 August 2018
 
 **Task done: Started 'Learn Pandas' course from codecademy.**  
-**Remarks: Topics learnt- Introduction of pandas,DataFrame,creating a DataFrame,row and column operations on DataFrame,inspecting a dataframe.**  
+**Remarks: Topics learnt- Introduction of pandas,learnt about DataFrame,creating a DataFrame,row and column operations on DataFrame,inspecting a dataframe.**  
