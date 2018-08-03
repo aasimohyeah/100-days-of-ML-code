@@ -21,3 +21,9 @@
 
 **Task done: Started and completed 'Learn Pandas: Creation and Manipulation' which marks the completion of 'Learn Pandas' course**  
 **Remarks: Finally done with learning Pandas.**
+
+# Day 5
+## 3 August 2018
+
+**Task: Trying to code basic machine learning algorithms in python.**  
+**Remarks: Still wondering what I will do today :D**  
