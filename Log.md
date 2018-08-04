@@ -33,3 +33,4 @@ Update- Started coding gradient descent with forward prop using pandas,numpy and
 ## 4 August 2018
 
 **Task:** Started the day with a revision of python concepts and syntax.
+**Remarks:** Took a while to complete revision.
