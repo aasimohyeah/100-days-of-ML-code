@@ -26,5 +26,8 @@
 ## 3 August 2018
 
 **Task: Trying to code basic machine learning algorithms in python.  
-Update: Started coding gradient descent with forward prop using pandas,numpy and matplotlib.**  
+Update- Started coding gradient descent with forward prop using pandas,numpy and matplotlib.**  
 **Remarks: Still wondering what I will do today :D**  
+
+# Day 6
+## 4 August 2018
