@@ -19,11 +19,12 @@
 # Day 4
 ## 2 August 2018
 
-**Task done: Started and completed 'Learn Pandas: Creation and Manipulation' which marks the completion of 'Learn Pandas' course**  
+**Task done: Started and completed 'Learn Pandas: Creation and Manipulation' which marks the completion of 'Learn Pandas' course.**  
 **Remarks: Finally done with learning Pandas.**
 
 # Day 5
 ## 3 August 2018
 
-**Task: Trying to code basic machine learning algorithms in python.**  
+**Task: Trying to code basic machine learning algorithms in python.  
+Update: Started coding gradient descent with forward prop using pandas,numpy and matplotlib.**  
 **Remarks: Still wondering what I will do today :D**  
