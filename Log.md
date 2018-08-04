@@ -32,4 +32,4 @@ Update- Started coding gradient descent with forward prop using pandas,numpy and
 # Day 6
 ## 4 August 2018
 
-**Task:** Started the day with a revision of python syntaxes.
+**Task:** Started the day with a revision of python concepts and syntax.
