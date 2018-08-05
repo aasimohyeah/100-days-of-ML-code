@@ -38,4 +38,4 @@ Update- Started coding gradient descent with forward prop using pandas,numpy and
 # Day 7
 ## 5 August 2018
 
-**Task:** 
+**Task:** Read numpy documentation.
