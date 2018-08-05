@@ -39,3 +39,4 @@ Update- Started coding gradient descent with forward prop using pandas,numpy and
 ## 5 August 2018
 
 **Task:** Read numpy documentation.  
+**Remarks:** np.ndarray.tolist() ; ndarray refers to name of the array  
