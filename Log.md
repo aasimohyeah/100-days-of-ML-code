@@ -32,7 +32,7 @@ Update- Started coding gradient descent with forward prop using pandas,numpy and
 # Day 6
 ## 4 August 2018
 
-**Task:** Started the day with a revision of python concepts and syntax.
+**Task:** Started the day with a revision of python concepts and syntax.  
 **Remarks:** Took a while to complete revision.
 
 # Day 7
@@ -40,3 +40,8 @@ Update- Started coding gradient descent with forward prop using pandas,numpy and
 
 **Task:** Read numpy documentation.  
 **Remarks:** np.ndarray.tolist() ; ndarray refers to name of the array  
+
+# Day 8
+# 6 August 2018
+
+**Task:** Started Course 3 of deeplearning.ai (Structuring Machine Learning Projects)
