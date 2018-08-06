@@ -42,6 +42,6 @@ Update- Started coding gradient descent with forward prop using pandas,numpy and
 **Remarks:** np.ndarray.tolist() ; ndarray refers to name of the array  
 
 # Day 8
-# 6 August 2018
+## 6 August 2018
 
 **Task:** Started Course 3 of deeplearning.ai (Structuring Machine Learning Projects)
