@@ -45,4 +45,5 @@ Update- Started coding gradient descent with forward prop using pandas,numpy and
 ## 6 August 2018
 
 **Task:** Started Course 3 of deeplearning.ai (Structuring Machine Learning Projects).  
-Working on my gradient descent python code. Learning how to use kaggle datasets.  
+Working on my gradient descent python code.  
+Learning how to use kaggle datasets.  
