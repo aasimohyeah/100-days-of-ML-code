@@ -44,4 +44,5 @@ Update- Started coding gradient descent with forward prop using pandas,numpy and
 # Day 8
 ## 6 August 2018
 
-**Task:** Started Course 3 of deeplearning.ai (Structuring Machine Learning Projects)
+**Task:** Started Course 3 of deeplearning.ai (Structuring Machine Learning Projects).  
+Working on my gradient descent python code.  
