@@ -51,4 +51,5 @@ Learning how to use kaggle datasets.
 # Day 9
 ## 7 August 2018
 
-**Task:**
+**Task:** Revising pandas, matlotlib and coding gradient descent.  
+**Remarks:** Installed ubuntu(windows wasn't running jupyter properly). My tasks are taking unusually long.  
