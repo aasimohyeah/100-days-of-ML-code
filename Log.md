@@ -51,6 +51,6 @@ Learning how to use kaggle datasets.
 # Day 9
 ## 7 August 2018
 
-**Task:** Revising pandas, matlotlib and coding gradient descent.  
+**Task:** Revising pandas, matlotlib and coding gradient descent. Found and ran a dataset for linear regression.  
 **Remarks:** Installed ubuntu(windows wasn't running jupyter properly).  
 These tasks are taking unusually long.  
