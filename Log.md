@@ -54,3 +54,8 @@ Learning how to use kaggle datasets.
 **Task:** Revising pandas, matlotlib and coding gradient descent. Found and ran a dataset for linear regression.  
 **Remarks:** Installed ubuntu(windows wasn't running jupyter properly).  
 These tasks are taking unusually long.  
+
+# Day 10
+## 8 August 2018
+
+**Task:** Completed my gradient descent code but it looks broken. Need to fix it.
