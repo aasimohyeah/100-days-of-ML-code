@@ -59,3 +59,8 @@ These tasks are taking unusually long.
 ## 8 August 2018
 
 **Task:** Completed my gradient descent code but it looks broken. Need to fix it.
+
+# Day 11
+# 12 August 2018
+
+**Task:**
