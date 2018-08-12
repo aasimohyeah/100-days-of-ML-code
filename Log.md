@@ -64,3 +64,4 @@ These tasks are taking unusually long.
 ## 12 August 2018
 
 **Task:** Complete numpy-100 exercise from numpy-100 repository.
+**Remarks:** Link of the repo- https://github.com/aasimohyeah/numpy-100
