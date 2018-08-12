@@ -61,6 +61,6 @@ These tasks are taking unusually long.
 **Task:** Completed my gradient descent code but it looks broken. Need to fix it.
 
 # Day 11
-# 12 August 2018
+## 12 August 2018
 
-**Task:**
+**Task:** Complete numpy-100 exercise from numpy-100 repository.
