@@ -64,11 +64,11 @@ These tasks are taking unusually long.
 ## 12 August 2018
 
 **Task:** Complete numpy-100 exercise from numpy-100 repository.  
-**Remarks:** Link of the repo- https://github.com/aasimohyeah/numpy-100
+**Remarks:** Link of the original repo- https://github.com/aasimohyeah/numpy-100
 
 # Day 12
 ## 13 August 2018
 
 **Task:** Build a neural network.  
 **Remarks:** Video: https://www.youtube.com/watch?v=h3l4qz76JhQ&t=95s.  
-Github repo: https://github.com/llSourcell/Make_a_neural_network
+Github repo for above video: https://github.com/llSourcell/Make_a_neural_network
