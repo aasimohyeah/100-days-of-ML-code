@@ -76,4 +76,4 @@ Github repo for above video: https://github.com/llSourcell/Make_a_neural_network
 # Day 13
 ## 14 August 2018
 
-**Task:**
+**Task:** Succesfully completed my first gradient descent program.
