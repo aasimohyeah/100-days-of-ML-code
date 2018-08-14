@@ -72,3 +72,8 @@ These tasks are taking unusually long.
 **Task:** Build a neural network.  
 **Remarks:** Video: https://www.youtube.com/watch?v=h3l4qz76JhQ&t=95s.  
 Github repo for above video: https://github.com/llSourcell/Make_a_neural_network
+
+# Day 13
+## 14 August 2018
+
+**Task:**
