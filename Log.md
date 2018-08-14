@@ -77,3 +77,9 @@ Github repo for above video: https://github.com/llSourcell/Make_a_neural_network
 ## 14 August 2018
 
 **Task:** Succesfully completed my first gradient descent program.
+
+# Day 14
+## 15 August 2018
+
+**Task:** Matplotlib documetation, numpy-100, finding datasets to run linear regression(gradient descent) on.  
+**Remarks:**
