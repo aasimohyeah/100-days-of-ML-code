@@ -82,7 +82,7 @@ Github repo for above video: https://github.com/llSourcell/Make_a_neural_network
 # Day 14
 ## 15 August 2018
 
-**Task:** Matplotlib documetation, numpy-100, finding datasets to run linear regression(gradient descent) on.  
+**Task:** Matplotlib documetation, finding datasets to run linear regression(gradient descent) on.  
 **Remarks:** Ran gradient descent/linear regression on iris dataset,pushed it to 'My-repo' on github  
 (https://github.com/aasimohyeah/My-repo/blob/master/Linear-reg-grad-desc-iris-dataset.ipynb).  
 Ran a kernel of the same on kaggle  
