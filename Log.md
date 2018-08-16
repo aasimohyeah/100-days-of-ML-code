@@ -87,3 +87,6 @@ Github repo for above video: https://github.com/llSourcell/Make_a_neural_network
 (https://github.com/aasimohyeah/My-repo/blob/master/Linear-reg-grad-desc-iris-dataset.ipynb).  
 Ran a kernel of the same on kaggle  
 (Link- https://www.kaggle.com/aasimohyeah/linear-regression-gradient-descent-on-iris-dataset).  
+
+# Day 15
+## 16 August 2018
