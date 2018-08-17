@@ -90,3 +90,6 @@ Ran a kernel of the same on kaggle
 
 # Day 15
 ## 16 August 2018
+
+# Day 16
+## 17 August 2018
