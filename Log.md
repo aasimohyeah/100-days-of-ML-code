@@ -91,5 +91,7 @@ Ran a kernel of the same on kaggle
 # Day 15
 ## 16 August 2018
 
+**Task:** Implement backpropagation on neural netwok. Learn how to do so.  
+
 # Day 16
 ## 17 August 2018
