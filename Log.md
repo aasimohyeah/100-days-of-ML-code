@@ -95,3 +95,10 @@ Ran a kernel of the same on kaggle
 
 # Day 16
 ## 17 August 2018
+**Task:**
+**Remark:**
+
+# Going on a vacation
+
+# Day 17
+## 26 August 2018
