@@ -95,11 +95,14 @@ Ran a kernel of the same on kaggle
 
 # Day 16
 ## 17 August 2018
+
 **Task:** Read backpropagation research paper  
 
 # Going on a week long vacation  
 
-# Day 17
-## 26 August 2018
+# I am stuck with exams, I wonder when I will be able to resume.(26 August 2018)  
 
-# I am stuck with exams, I wonder when I will be able to resume.  
+# Day 17
+## 29 August 2018
+
+**Task:** 
