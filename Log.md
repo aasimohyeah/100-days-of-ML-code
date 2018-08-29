@@ -98,7 +98,7 @@ Ran a kernel of the same on kaggle
 
 **Task:** Read backpropagation research paper  
 **Remarks:**  
-Learning representations by back-propagating errors pdf-  
+Learning representations by back-propagating errors pdf(The research paper)-  
 https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&ved=2ahUKEwiOhteM4JLdAhXJvo8KHYKmAQQQFjACegQICBAC&url=http%3A%2F%2Fsvn.ucc.asn.au%3A8080%2Foxinabox%2FUni%2520Notes%2Fhonours%2FBackground%2520Reading%2Fbackprop_old.pdf&usg=AOvVaw3tlrLnXzwmnvCo-hhKLBoR  
 A great article on towards data science explaining the research paper-  
 https://towardsdatascience.com/learning-backpropagation-from-geoffrey-hinton-619027613f0
