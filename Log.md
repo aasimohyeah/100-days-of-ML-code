@@ -111,3 +111,6 @@ https://towardsdatascience.com/learning-backpropagation-from-geoffrey-hinton-619
 ## 29 August 2018
 
 **Task:** 
+
+# Day 18
+## 30 August 2018
