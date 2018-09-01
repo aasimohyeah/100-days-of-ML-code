@@ -114,3 +114,10 @@ https://towardsdatascience.com/learning-backpropagation-from-geoffrey-hinton-619
 
 # Day 18
 ## 30 August 2018
+
+# Day 19
+## 31 August 2018
+
+# Day 20
+## 1 September 2018
+**Task:** Complete Week 1 of this repository: https://github.com/aasimohyeah/Resources  
