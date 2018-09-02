@@ -121,3 +121,9 @@ https://towardsdatascience.com/learning-backpropagation-from-geoffrey-hinton-619
 # Day 20
 ## 1 September 2018
 **Task:** Complete Week 1 of this repository: https://github.com/aasimohyeah/Resources  
+**Remarks:** Completed task 1  
+
+# Day 21
+## 2 September 2018
+**Task:** Complete Week 1 of this repository: https://github.com/aasimohyeah/Resources  
+**Remarks:** Completed task 2 and 3, assignment done.  
