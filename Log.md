@@ -127,3 +127,8 @@ https://towardsdatascience.com/learning-backpropagation-from-geoffrey-hinton-619
 ## 2 September 2018
 **Task:** Complete Week 1 of this repository: https://github.com/aasimohyeah/Resources  
 **Remarks:** Completed task 2 and 3, assignment done.  
+
+# Day 22
+## 3 September 2018
+**Task:** Back to backpropagation.  
+**Remarks:** Backprop explained:http://neuralnetworksanddeeplearning.com/chap2.html  
