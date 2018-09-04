@@ -132,3 +132,7 @@ https://towardsdatascience.com/learning-backpropagation-from-geoffrey-hinton-619
 ## 3 September 2018
 **Task:** Back to backpropagation.  
 **Remarks:** Backprop explained:http://neuralnetworksanddeeplearning.com/chap2.html  
+
+# Day 23
+## 4 September 2018
+**Task:** 
