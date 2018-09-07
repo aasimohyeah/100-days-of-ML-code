@@ -108,34 +108,19 @@ https://towardsdatascience.com/learning-backpropagation-from-geoffrey-hinton-619
 # I am stuck with exams, I wonder when I will be able to resume.(26 August 2018)  
 
 # Day 17
-## 29 August 2018
-
-**Task:** 
-
-# Day 18
-## 30 August 2018
-
-# Day 19
-## 31 August 2018
-
-# Day 20
 ## 1 September 2018
 **Task:** Complete Week 1 of this repository: https://github.com/aasimohyeah/Resources  
 **Remarks:** Completed task 1  
 
-# Day 21
+# Day 18
 ## 2 September 2018
 **Task:** Complete Week 1 of this repository: https://github.com/aasimohyeah/Resources  
 **Remarks:** Completed task 2 and 3, assignment done.  
 
-# Day 22
+# Day 19
 ## 3 September 2018
 **Task:** Back to backpropagation.  
 **Remarks:** Backprop explained:http://neuralnetworksanddeeplearning.com/chap2.html  
 
-# Day 23
-## 4 September 2018
-**Task:** 
-
-# Day 24
+# Day 20
 ## 7 September 2018
