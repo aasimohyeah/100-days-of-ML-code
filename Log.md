@@ -123,4 +123,6 @@ https://towardsdatascience.com/learning-backpropagation-from-geoffrey-hinton-619
 **Remarks:** Backprop explained:http://neuralnetworksanddeeplearning.com/chap2.html  
 
 # Day 20
-## 7 September 2018
+## 15 September 2018
+**Task:** Math of intelligence video 1 completed.  
+**Remarks:** Video-https://www.youtube.com/watch?v=xRJCOz3AfYY&index=2&list=PL2-dafEMk2A7mu0bSksCGMJEmeddU_H4D&t=0s, Repo-https://github.com/llSourcell/Intro_to_the_Math_of_intelligence  
