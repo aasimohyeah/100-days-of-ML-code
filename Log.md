@@ -125,4 +125,4 @@ https://towardsdatascience.com/learning-backpropagation-from-geoffrey-hinton-619
 # Day 20
 ## 15 September 2018
 **Task:** Math of intelligence video 1 completed.  
-**Remarks:** Video-https://www.youtube.com/watch?v=xRJCOz3AfYY&index=2&list=PL2-dafEMk2A7mu0bSksCGMJEmeddU_H4D&t=0s, Repo-https://github.com/llSourcell/Intro_to_the_Math_of_intelligence  
+**Remarks:** Video 1-https://www.youtube.com/watch?v=xRJCOz3AfYY&index=2&list=PL2-dafEMk2A7mu0bSksCGMJEmeddU_H4D&t=0s and it's  Repo-https://github.com/llSourcell/Intro_to_the_Math_of_intelligence  
